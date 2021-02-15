@@ -4,6 +4,6 @@ Resolução dos exercícios proposto durante o curso de HTML e CSS pelo o Curso 
 
 # Próximos Passos
 
-[ ] Atualização do README.md
-[x] Desafio 07
-[ ] Desafio 08
+- [ ] Atualização do README.md
+- [x] Desafio 07
+- [ ] Desafio 08
